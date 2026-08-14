@@ -396,3 +396,9 @@ Therefore, all three core requirements of the task have been successfully implem
 **🎤 Speech → 📝 Text → 🧠 LLM → 💬 Response → 🔊 Speech**
 
 ---
+
+## 👨‍💻 Author
+
+**Fahad**
+
+**Cybersecurity Student**
